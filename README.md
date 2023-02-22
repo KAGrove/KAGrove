@@ -4,8 +4,5 @@ My name is Knut Andreas Grove and I'm a student of computer engineering at Oslo 
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAGrove&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KAGrove&theme=dark)](https://git.io/streak-stats)
 
-## My Coding Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAGrove&theme=radical)
