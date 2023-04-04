@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Knut Andreas Grove and I'm a student of computer engineering at Oslo Metropolitan University.
+My name is Knut Andreas Grove and I'm a student of software engineering at Oslo Metropolitan University.
 
 ## My GitHub Stats
 
