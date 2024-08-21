@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Knut Andreas Grove and I'm a 3rd year student of software engineering at Oslo Metropolitan University.
+My name is Knut Andreas Grove and I'm working as a backend developer for Bouvet AS in Bergen. Before this, I completed my bachelor in software engineering at Oslo Metropolitan University.
 
  ## My GitHub Stats 
 
